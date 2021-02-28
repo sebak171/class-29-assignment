@@ -1,0 +1,11 @@
+.chowdhury{
+    position: relative;
+}
+.sebak::before{
+    height: 100%;
+    width: 100%;
+    background: rgba(195, 171, 171, 0.2);
+    left: 0;
+    top: 0;
+
+}
